@@ -58,7 +58,7 @@ Fourth Year,9,15,7,Right-handed,On your right side,Cat,None,1
 First Year,5,3,7,Right-handed,On your stomach,Cat,"Ahsoka, Gilmore Girls",2
 Third Year,5,3,8,Right-handed,On your left side,Cat,"Ahsoka, The Mandalorian, Gilmore Girls",2
 First Year,6,3,7,Right-handed,On your back,Cat,Atlanta,2
-Second Year,8,10,8.5,ambidextrous,On your back,Cat,Black Mirror,2
+Second Year,8,10,8.5,Ambidextrous,On your back,Cat,Black Mirror,2
 Second Year,3,3,7,Right-handed,On your left side,Cat,Black Mirror,2
 First Year,6,5,5,Right-handed,On your left side,Cat,Gilmore Girls,2
 Second Year,9,20,7,Right-handed,On your right side,Cat,Gilmore Girls,2
@@ -702,7 +702,7 @@ First Year,6,10,7,Right-handed,On your right side,None,The Mandalorian,0
 First Year,4,6,8,Right-handed,On your right side,None,The Mandalorian,0
 First Year,6,6,8,Right-handed,On your right side,None,The Mandalorian,0
 First Year,3,2,8,Right-handed,On your left side,None,"The Mandalorian, Better Call Saul",0
-First Year,4,9,8,Ambidexterous,On your stomach,None,"The Mandalorian, One Piece",0
+First Year,4,9,8,Ambidextrous,On your stomach,None,"The Mandalorian, One Piece",0
 First Year,7,15,7,Right-handed,On your stomach,None,"The Mandalorian, One Piece, Gilmore Girls",0
 Third Year,6,4,7,Right-handed,On your right side,None,This is us,0
 Third Year,7,14,6,Right-handed,On your left side,None,White Collar,0
@@ -916,7 +916,7 @@ First Year,6,15,5,Left-handed,On your back,Rabbit,Black Mirror,0
 First Year,6,1,5,Right-handed,On your left side,Rabbit,One Piece,0
 Third Year,6,4,8,Right-handed,On your right side,Rabbit,One Piece,0
 Second Year,8,20,8,Right-handed,On your right side,Rabbit,One Piece,0
-First Year,6,10,7,ambidextrous,On your right side,Rabbit,Avatar the Last Airbender,2
+First Year,6,10,7,Ambidextrous,On your right side,Rabbit,Avatar the Last Airbender,2
 Third Year,4,7,7,Right-handed,On your right side,Rabbit,Over the Garden Wall,6
 Third Year,4,6,7,Right-handed,On your back,Snake,The Mandalorian,0
 Third Year,7,5,8,Right-handed,On your right side,Snake,None,1
